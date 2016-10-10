@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week Six
+title: Week Seven
 ---
 ## The Exam ##
 This week we had our first exam for this class. Honestly, I thought the exam was pretty close to the material that we went over in class, so I would have to say it was fair. I think I could have studied harder for it, but now I know what to expect on the next one. 
